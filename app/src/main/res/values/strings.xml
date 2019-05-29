@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Eco Smartphone</string>
+    <string name="chat">Chat</string>
+    <string name="chart">Chart</string>
+    <string name="buy">Buy</string>
+    <string name="sell_by">Sell By :</string>
+    <string name="spesification">Spesification</string>
+    <string name="main_component_of_smartphone">Main Component of smartphone</string>
+    <string name="stock">Stock 5 item</string>
+    <string name="judul_hp">Judul HP</string>
+    <string name="price_hp">Price HP</string>
+    <string name="nama_penjual">Nama Penjual</string>
+    <string name="display_content">Display Content</string>
+    <string name="display">Display</string>
+    <string name="body">Body</string>
+    <string name="body_content">Body Content</string>
+    <string name="baterry">Baterry</string>
+    <string name="battery_content">Bateery Content</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_location">Product Location</string>
+    <string name="product_detail">Product Detail</string>
+    <string name="apple">Apple</string>
+    <string name="samsung">Samsung</string>
+    <string name="oppo">Oppo</string>
+    <string name="xiaomi">Xiaomi</string>
+    <string name="nokia">Nokia</string>
+</resources>
